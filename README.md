@@ -1,6 +1,3 @@
-# jsonfiltering-demo
-Retrieve and filter data from json file client side
-
 ## Features
 
 - Retrieve user data from JSON file client side
